@@ -1,0 +1,1 @@
+select count(venue_name) from football_venue
