@@ -1,0 +1,1 @@
+select distinct(Job_name) as unique_designations from Employee_Details

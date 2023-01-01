@@ -1,0 +1,1 @@
+select Salary as salaries from Employee_Details 
